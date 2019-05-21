@@ -6,7 +6,8 @@ Implementation of the madgwick filter for golang
 - And not necessarily git<br/>
 
 create a directory inside Go/src called "filter"<br/>
-Inside the folder Go/src/filter execute the code:<br/>
+Inside the folder C:/Go/src execute the code:<br/>
+`$ cd C:/Go/src`<br/>
 `$ git clone https://github.com/brunocannavina/GoAHRS.git`<br/>
 _(or you can simply download it from github)_<br/>
 then, open the folder GoAHRS<br/>

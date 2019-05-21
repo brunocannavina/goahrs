@@ -1,4 +1,4 @@
-package filter
+package goahrs
 
 // Implementation of Madgwick's IMU and AHRS algorithms.
 // See: http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/

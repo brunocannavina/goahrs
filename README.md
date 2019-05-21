@@ -7,7 +7,7 @@ Implementation of the madgwick filter for golang
 Go to C:\Go\src<br/>
 `$ cd C:\Go\src`<br/>
 Inside the folder execute the code:<br/>
-`$ git clone https://github.com/brunocannavina/GoAHRS.git`<br/>
+`$ git clone https://github.com/brunocannavina/goahrs.git`<br/>
 _(or you can simply download it from github)_<br/>
 then, open the folder goahrs<br/>
 `$ cd GoAHRS`<br/>

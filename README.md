@@ -9,7 +9,7 @@ Go to C:\Go\src<br/>
 Inside the folder execute the code:<br/>
 `$ git clone https://github.com/brunocannavina/GoAHRS.git`<br/>
 _(or you can simply download it from github)_<br/>
-then, open the folder GoAHRS<br/>
+then, open the folder goahrs<br/>
 `$ cd GoAHRS`<br/>
 and install the package<br/>
 `$ go install`<br/>

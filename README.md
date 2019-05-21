@@ -13,7 +13,7 @@ In your code add the packages filter<br/>
 ```
 package main
 
-import
+import(
   "fmt"
   "filter"
 )

@@ -10,7 +10,7 @@ Inside the folder execute the code:<br/>
 `$ git clone https://github.com/brunocannavina/goahrs.git`<br/>
 _(or you can simply download it from github)_<br/>
 then, open the folder goahrs<br/>
-`$ cd GoAHRS`<br/>
+`$ cd goahrs`<br/>
 and install the package<br/>
 `$ go install`<br/>
 

@@ -3,6 +3,7 @@
 ### Description
 This packages wraps the implementation of Madgwick algorithm<br/>
 to get orientation of an object based on accelerometer and gyroscope readings for Golang<br/>
+More information about the algorithm can be found at http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/
 
 ### Installation
 - You must have Golang installed<br/>

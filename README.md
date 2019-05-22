@@ -24,7 +24,8 @@ import(
   "fmt"
   "goahrs"
 )
-func main()
+
+func main(){
 
 }
 ```

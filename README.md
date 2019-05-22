@@ -1,7 +1,10 @@
 # GoAHRS
-Implementation of the madgwick filter for golang
 
-## Instalation
+### Description
+This packages wraps the implementation of Madgwick algorithm<br/>
+to get orientation of an object based on accelerometer and gyroscope readings for Golang<br/>
+
+### Installation
 - You must have Golang installed<br/>
 - And not necessarily git<br/>
 Go to C:\Go\src<br/>
@@ -14,10 +17,10 @@ then, open the folder goahrs:<br/>
 and install the package:<br/>
 `$ go install`<br/>
 
-## How to Use
+### Usage
 In your code add the packages goahrs<br/>
 
-```
+```go
 package main
 
 import(

@@ -219,3 +219,9 @@ func (v Quaternion) GetWorldAccel() [3]float64 {
 
 	return World
 }
+
+// Change Beta, the filter gain. The default is 0.1, but can be adjusted to
+// sqrt(3/4)*averageGyroError (average of all axes)
+func (v Quaternion) SetFilterGain(newBeta float64) {
+  beta = newBeta
+}
